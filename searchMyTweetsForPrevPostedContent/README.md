@@ -1,4 +1,4 @@
-# Search My Twitter for Previous Post
+# Search My Twitter
 
 Whenever I read an interesting article, I make sure to [share it with my followers on Twitter](https://crowdfireapp.com) and I mostly use automated tools to schedule those tweets so the format of the title always ends up being the same. I've been doing this for a while so I have a hundreds of articles shared through my twitter.
 
